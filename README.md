@@ -8,6 +8,9 @@ Laravel eCommerce Plaform
 - https://github.com/cartalyst/stripe-laravel
 - https://github.com/cartalyst/converter
 - https://github.com/laravel/cashier
+- https://github.com/spatie/laravel-responsecache
+- https://github.com/emir/laravel-webartisan
+- https://github.com/niallkennedy/open-graph-protocol-tools
 
 *Frontend:*
 - jQuery
