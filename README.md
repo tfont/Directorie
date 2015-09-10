@@ -16,6 +16,9 @@ Laravel eCommerce Plaform
 Creare this experience:
 https://cartalyst.com/manual/cart/2.0
 
+Promo Code:
+https://github.com/PHPBenelux/PromoCodes
+
 *Frontend:*
 - jQuery
 - Underscore.js
