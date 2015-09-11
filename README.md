@@ -23,3 +23,4 @@ https://github.com/PHPBenelux/PromoCodes
 - jQuery
 - Underscore.js
 - php.js
+- moment.js
