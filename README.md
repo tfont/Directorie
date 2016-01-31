@@ -3,6 +3,7 @@ Laravel eCommerce Plaform
 
 -----
 *Backend*
+- https://github.com/lukepolo/laracart/
 - https://github.com/octobercms/october
 - https://github.com/cartalyst/sentinel
 - https://github.com/cartalyst/tags
