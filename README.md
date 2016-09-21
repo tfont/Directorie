@@ -23,9 +23,12 @@ Laravel eCommerce Plaform (concept)
 - https://cartalyst.com/manual/cart/2.0
 
 *Frontend:*
-- https://github.com/laravel/elixir
+- VueJS
 - jQuery
 - Underscore.js
 - php.js
 - moment.js
-- (possibly VueJS)
+- (possibly Elixir: https://github.com/laravel/elixir)
+
+*Backend Panel:*
+- https://codecanyon.net/item/josh-laravel-admin-template-front-end-crud/8754542
